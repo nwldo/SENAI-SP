@@ -1,0 +1,296 @@
+{
+  "id": "dfc0e54f-4904-47ef-b0e5-dcd4eb140cbb",
+  "version": "2.0",
+  "name": "Editar",
+  "url": "http://192.168.56.1:8080",
+  "tests": [{
+    "id": "59039857-0577-4cd4-8b7c-95eb8e3d869a",
+    "name": "ok",
+    "commands": [{
+      "id": "9c73573c-7400-4ccb-9d33-741703cc52b7",
+      "comment": "",
+      "command": "open",
+      "target": "/listar",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "92dd7283-a8c7-4593-b673-6e0692abf3ab",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "734x870",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "27575fd2-c386-4435-a075-533f0d5f5928",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cdk-focused > .mdc-button__label",
+      "targets": [
+        ["css=.cdk-focused > .mdc-button__label", "css:finder"],
+        ["xpath=//tr[3]/td[3]/a/span[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "66ccd4e2-4f09-450c-a72e-59e67c4f5857",
+      "comment": "",
+      "command": "click",
+      "target": "css=html",
+      "targets": [
+        ["css=html", "css:finder"],
+        ["xpath=//html", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "da8f1e89-7342-48c0-a9a1-adbde945c8e8",
+      "comment": "",
+      "command": "click",
+      "target": "id=id",
+      "targets": [
+        ["id=id", "id"],
+        ["name=id", "name"],
+        ["css=#id", "css:finder"],
+        ["xpath=//input[@id='id']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "40bbf828-c0df-4d2e-a6c1-f424aceb4f29",
+      "comment": "",
+      "command": "click",
+      "target": "id=id",
+      "targets": [
+        ["id=id", "id"],
+        ["name=id", "name"],
+        ["css=#id", "css:finder"],
+        ["xpath=//input[@id='id']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3874945f-d69b-410e-a1d9-abf0a375a2eb",
+      "comment": "",
+      "command": "click",
+      "target": "css=html",
+      "targets": [
+        ["css=html", "css:finder"],
+        ["xpath=//html", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "ec6200e7-2f3a-4894-8263-03fb724d4fde",
+      "comment": "",
+      "command": "click",
+      "target": "css=div:nth-child(2) > label",
+      "targets": [
+        ["css=div:nth-child(2) > label", "css:finder"],
+        ["xpath=//div[2]/label", "xpath:position"],
+        ["xpath=//label[contains(.,'Nome')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "adaad1fa-697f-42ee-a6ea-03e4ee1333b0",
+      "comment": "",
+      "command": "click",
+      "target": "css=.row",
+      "targets": [
+        ["css=.row", "css:finder"],
+        ["xpath=//form", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b1e0c633-d99d-45ba-93f9-16e8114effd4",
+      "comment": "",
+      "command": "click",
+      "target": "name=endereco",
+      "targets": [
+        ["name=endereco", "name"],
+        ["css=div:nth-child(3) > .form-control", "css:finder"],
+        ["xpath=//input[@name='endereco']", "xpath:attributes"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "394b3641-0ac2-44c6-a8a6-6e8300e100ba",
+      "comment": "",
+      "command": "type",
+      "target": "name=endereco",
+      "targets": [
+        ["name=endereco", "name"],
+        ["css=div > .ng-dirty", "css:finder"],
+        ["xpath=//input[@name='endereco']", "xpath:attributes"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": "Rua F"
+    }, {
+      "id": "45ddfca5-01b7-4103-9942-6204a14932fe",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn",
+      "targets": [
+        ["css=.btn", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Atualizar')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "111a8bfb-8bc4-4069-a475-f3bc6dfa529d",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.btn",
+      "targets": [
+        ["css=.btn", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Atualizar')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "b7108a8b-1219-448c-9eb2-c2edaba645dd",
+      "comment": "",
+      "command": "assertAlert",
+      "target": "Erro ao atualizar",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2ae94969-cbe3-4766-8842-85d762004f17",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=tr:nth-child(3) .mat-primary > .mdc-button__label",
+      "targets": [
+        ["css=tr:nth-child(3) .mat-primary > .mdc-button__label", "css:finder"],
+        ["xpath=//tr[3]/td[3]/a/span[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "36bdd303-7659-45aa-beee-68afb10d0117",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cdk-focused > .mdc-button__label",
+      "targets": [
+        ["css=.cdk-focused > .mdc-button__label", "css:finder"],
+        ["xpath=//tr[3]/td[3]/a/span[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "dbcb165f-c881-4b52-858b-096b59e3b9bc",
+      "comment": "",
+      "command": "click",
+      "target": "name=endereco",
+      "targets": [
+        ["name=endereco", "name"],
+        ["css=div:nth-child(3) > .form-control", "css:finder"],
+        ["xpath=//input[@name='endereco']", "xpath:attributes"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "e1ec1ee1-a01c-4a0c-b3d9-b1297302615d",
+      "comment": "",
+      "command": "type",
+      "target": "name=endereco",
+      "targets": [
+        ["name=endereco", "name"],
+        ["css=div > .ng-dirty", "css:finder"],
+        ["xpath=//input[@name='endereco']", "xpath:attributes"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": "Rua F"
+    }, {
+      "id": "9b23e43e-63f3-4c53-b85c-2b580e009f38",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn",
+      "targets": [
+        ["css=.btn", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Atualizar')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "ce152be6-dea5-4995-864d-c3ac134118de",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=.btn",
+      "targets": [
+        ["css=.btn", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Atualizar')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "72e734bf-fafc-4e20-b258-33fc123630a4",
+      "comment": "",
+      "command": "assertAlert",
+      "target": "Erro ao atualizar",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "2830e643-2f0a-465b-a512-c21dc8659727",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "css=tr:nth-child(2) .mat-primary > .mdc-button__label",
+      "targets": [
+        ["css=tr:nth-child(2) .mat-primary > .mdc-button__label", "css:finder"],
+        ["xpath=//tr[2]/td[3]/a/span[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "728968e4-ed08-4ba4-89a2-8b4d3697c7e8",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cdk-focused > .mdc-button__label",
+      "targets": [
+        ["css=.cdk-focused > .mdc-button__label", "css:finder"],
+        ["xpath=//tr[2]/td[3]/a/span[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3f21e4e6-8823-4ddd-9db7-1f87236b41dd",
+      "comment": "",
+      "command": "click",
+      "target": "css=html",
+      "targets": [
+        ["css=html", "css:finder"],
+        ["xpath=//html", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cad59ec0-a107-4638-975c-d3c05a7350a7",
+      "comment": "",
+      "command": "type",
+      "target": "name=endereco",
+      "targets": [
+        ["name=endereco", "name"],
+        ["css=div > .ng-dirty", "css:finder"],
+        ["xpath=//input[@name='endereco']", "xpath:attributes"],
+        ["xpath=//div[3]/input", "xpath:position"]
+      ],
+      "value": "Rua F"
+    }, {
+      "id": "e1f205e0-6f10-45c8-8157-5557edd394f0",
+      "comment": "",
+      "command": "click",
+      "target": "css=.btn",
+      "targets": [
+        ["css=.btn", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Atualizar')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "ab077396-67ef-4ae2-9d45-fd776b9dde73",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["59039857-0577-4cd4-8b7c-95eb8e3d869a"]
+  }],
+  "urls": ["http://192.168.56.1:8080/"],
+  "plugins": []
+}

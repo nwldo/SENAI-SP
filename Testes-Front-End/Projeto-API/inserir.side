@@ -1,0 +1,45 @@
+{
+  "id": "450c994b-82ba-4362-a1e2-9b819b80e991",
+  "version": "2.0",
+  "name": "Inserir",
+  "url": "http://192.168.56.1:8080",
+  "tests": [{
+    "id": "43df1741-9f43-4124-9e3a-a13971d4d556",
+    "name": "ok",
+    "commands": [{
+      "id": "c53bdb92-0e3f-4181-a5ea-481e13423725",
+      "comment": "",
+      "command": "open",
+      "target": "http://192.168.56.1:8080",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "58ab9140-cb6f-4a73-a875-7ad66b0990bd",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "734x877",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "32aa9e8c-e714-402c-9d8f-b2aac8ce0e12",
+      "comment": "",
+      "command": "click",
+      "target": "css=body",
+      "targets": [
+        ["css=body", "css:finder"],
+        ["xpath=//body", "xpath:position"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "1c9998c6-b26d-41e0-94cd-11ecd2e87f15",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["43df1741-9f43-4124-9e3a-a13971d4d556"]
+  }],
+  "urls": ["http://192.168.56.1:8080/"],
+  "plugins": []
+}
