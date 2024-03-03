@@ -33,7 +33,14 @@ https://github.com/[usuario]/[nome-projeto].git
   ❯ dotnet run
 ```
 ---
-## 🔮 Funcionalidades Futuras
+## 🔮 Módulo: Codificação Back-End
+A Unidade Curricular (UC) de Codificação Back-End tem por objetivo propiciar o desenvolvimento de capacidades técnicas e socioemocionais para codificação de sistemas web server-side, considerando as necessidades do usuário.
+
+Esta UC possui 164 horas, divididas em 3 situações de aprendizagem (SA), também chamadas de situações-problema (SP).
+
+
+
+
 - [x] A
 - [ ] B
 - [ ] C
