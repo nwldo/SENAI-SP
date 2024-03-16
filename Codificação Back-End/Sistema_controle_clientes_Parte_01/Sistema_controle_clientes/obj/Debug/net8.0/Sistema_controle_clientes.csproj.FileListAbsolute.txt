@@ -1,0 +1,15 @@
+D:\dev\SENAI-SP\Codificação Back-End\Sistema_controle_clientes_Parte_01\Sistema_controle_clientes\bin\Debug\net8.0\Sistema_controle_clientes.exe
+D:\dev\SENAI-SP\Codificação Back-End\Sistema_controle_clientes_Parte_01\Sistema_controle_clientes\bin\Debug\net8.0\Sistema_controle_clientes.deps.json
+D:\dev\SENAI-SP\Codificação Back-End\Sistema_controle_clientes_Parte_01\Sistema_controle_clientes\bin\Debug\net8.0\Sistema_controle_clientes.runtimeconfig.json
+D:\dev\SENAI-SP\Codificação Back-End\Sistema_controle_clientes_Parte_01\Sistema_controle_clientes\bin\Debug\net8.0\Sistema_controle_clientes.dll
+D:\dev\SENAI-SP\Codificação Back-End\Sistema_controle_clientes_Parte_01\Sistema_controle_clientes\bin\Debug\net8.0\Sistema_controle_clientes.pdb
+D:\dev\SENAI-SP\Codificação Back-End\Sistema_controle_clientes_Parte_01\Sistema_controle_clientes\obj\Debug\net8.0\Sistema_controle_clientes.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\SENAI-SP\Codificação Back-End\Sistema_controle_clientes_Parte_01\Sistema_controle_clientes\obj\Debug\net8.0\Sistema_controle_clientes.AssemblyInfoInputs.cache
+D:\dev\SENAI-SP\Codificação Back-End\Sistema_controle_clientes_Parte_01\Sistema_controle_clientes\obj\Debug\net8.0\Sistema_controle_clientes.AssemblyInfo.cs
+D:\dev\SENAI-SP\Codificação Back-End\Sistema_controle_clientes_Parte_01\Sistema_controle_clientes\obj\Debug\net8.0\Sistema_controle_clientes.csproj.CoreCompileInputs.cache
+D:\dev\SENAI-SP\Codificação Back-End\Sistema_controle_clientes_Parte_01\Sistema_controle_clientes\obj\Debug\net8.0\Sistema_controle_clientes.sourcelink.json
+D:\dev\SENAI-SP\Codificação Back-End\Sistema_controle_clientes_Parte_01\Sistema_controle_clientes\obj\Debug\net8.0\Sistema_controle_clientes.dll
+D:\dev\SENAI-SP\Codificação Back-End\Sistema_controle_clientes_Parte_01\Sistema_controle_clientes\obj\Debug\net8.0\refint\Sistema_controle_clientes.dll
+D:\dev\SENAI-SP\Codificação Back-End\Sistema_controle_clientes_Parte_01\Sistema_controle_clientes\obj\Debug\net8.0\Sistema_controle_clientes.pdb
+D:\dev\SENAI-SP\Codificação Back-End\Sistema_controle_clientes_Parte_01\Sistema_controle_clientes\obj\Debug\net8.0\Sistema_controle_clientes.genruntimeconfig.cache
+D:\dev\SENAI-SP\Codificação Back-End\Sistema_controle_clientes_Parte_01\Sistema_controle_clientes\obj\Debug\net8.0\ref\Sistema_controle_clientes.dll
