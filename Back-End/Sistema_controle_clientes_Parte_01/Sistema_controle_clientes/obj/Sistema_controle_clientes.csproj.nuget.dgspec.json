@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dev\\SENAI-SP\\Codificação Back-End\\Sistema_controle_clientes_Parte_01\\Sistema_controle_clientes\\Sistema_controle_clientes.csproj": {}
+    "D:\\dev\\SENAI-SP\\Back-End\\Sistema_controle_clientes_Parte_01\\Sistema_controle_clientes\\Sistema_controle_clientes.csproj": {}
   },
   "projects": {
-    "D:\\dev\\SENAI-SP\\Codificação Back-End\\Sistema_controle_clientes_Parte_01\\Sistema_controle_clientes\\Sistema_controle_clientes.csproj": {
+    "D:\\dev\\SENAI-SP\\Back-End\\Sistema_controle_clientes_Parte_01\\Sistema_controle_clientes\\Sistema_controle_clientes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dev\\SENAI-SP\\Codificação Back-End\\Sistema_controle_clientes_Parte_01\\Sistema_controle_clientes\\Sistema_controle_clientes.csproj",
+        "projectUniqueName": "D:\\dev\\SENAI-SP\\Back-End\\Sistema_controle_clientes_Parte_01\\Sistema_controle_clientes\\Sistema_controle_clientes.csproj",
         "projectName": "Sistema_controle_clientes",
-        "projectPath": "D:\\dev\\SENAI-SP\\Codificação Back-End\\Sistema_controle_clientes_Parte_01\\Sistema_controle_clientes\\Sistema_controle_clientes.csproj",
+        "projectPath": "D:\\dev\\SENAI-SP\\Back-End\\Sistema_controle_clientes_Parte_01\\Sistema_controle_clientes\\Sistema_controle_clientes.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\dev\\SENAI-SP\\Codificação Back-End\\Sistema_controle_clientes_Parte_01\\Sistema_controle_clientes\\obj\\",
+        "outputPath": "D:\\dev\\SENAI-SP\\Back-End\\Sistema_controle_clientes_Parte_01\\Sistema_controle_clientes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

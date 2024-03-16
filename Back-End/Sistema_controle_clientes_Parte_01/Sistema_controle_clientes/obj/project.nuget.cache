@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z17Z2fm7wj9n/bWxPmMXV4k0bPp8sjmNcOfkY0qpfGhEMcxPVw1obcxByBQFaY15UQB140cbxRe18EUxIYZ+sg==",
+  "dgSpecHash": "JyJ7ySsKv5KQgPMlIvxDTqiLdqfbw4v5dRUTYuvXCv59Fl+8AxuoUvBs9E+tNPU3LTRR4GphHvKgDElM/KUFRw==",
   "success": true,
-  "projectFilePath": "D:\\dev\\SENAI-SP\\Codificação Back-End\\Sistema_controle_clientes_Parte_01\\Sistema_controle_clientes\\Sistema_controle_clientes.csproj",
+  "projectFilePath": "D:\\dev\\SENAI-SP\\Back-End\\Sistema_controle_clientes_Parte_01\\Sistema_controle_clientes\\Sistema_controle_clientes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
