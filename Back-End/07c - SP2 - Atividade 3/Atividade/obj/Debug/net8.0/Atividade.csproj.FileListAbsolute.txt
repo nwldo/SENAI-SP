@@ -1,0 +1,15 @@
+D:\dev\SENAI-SP\Back-End\07c - SP2 - Atividade 3\Atividade\obj\Debug\net8.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\SENAI-SP\Back-End\07c - SP2 - Atividade 3\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfoInputs.cache
+D:\dev\SENAI-SP\Back-End\07c - SP2 - Atividade 3\Atividade\obj\Debug\net8.0\Atividade.AssemblyInfo.cs
+D:\dev\SENAI-SP\Back-End\07c - SP2 - Atividade 3\Atividade\obj\Debug\net8.0\Atividade.csproj.CoreCompileInputs.cache
+D:\dev\SENAI-SP\Back-End\07c - SP2 - Atividade 3\Atividade\obj\Debug\net8.0\Atividade.sourcelink.json
+D:\dev\SENAI-SP\Back-End\07c - SP2 - Atividade 3\Atividade\bin\Debug\net8.0\Atividade.exe
+D:\dev\SENAI-SP\Back-End\07c - SP2 - Atividade 3\Atividade\bin\Debug\net8.0\Atividade.deps.json
+D:\dev\SENAI-SP\Back-End\07c - SP2 - Atividade 3\Atividade\bin\Debug\net8.0\Atividade.runtimeconfig.json
+D:\dev\SENAI-SP\Back-End\07c - SP2 - Atividade 3\Atividade\bin\Debug\net8.0\Atividade.dll
+D:\dev\SENAI-SP\Back-End\07c - SP2 - Atividade 3\Atividade\bin\Debug\net8.0\Atividade.pdb
+D:\dev\SENAI-SP\Back-End\07c - SP2 - Atividade 3\Atividade\obj\Debug\net8.0\Atividade.dll
+D:\dev\SENAI-SP\Back-End\07c - SP2 - Atividade 3\Atividade\obj\Debug\net8.0\refint\Atividade.dll
+D:\dev\SENAI-SP\Back-End\07c - SP2 - Atividade 3\Atividade\obj\Debug\net8.0\Atividade.pdb
+D:\dev\SENAI-SP\Back-End\07c - SP2 - Atividade 3\Atividade\obj\Debug\net8.0\Atividade.genruntimeconfig.cache
+D:\dev\SENAI-SP\Back-End\07c - SP2 - Atividade 3\Atividade\obj\Debug\net8.0\ref\Atividade.dll
