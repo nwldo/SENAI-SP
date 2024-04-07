@@ -1,0 +1,7 @@
+D:\dev\Full-Stack\SENAI-SP\Back-End\10b-SP3-Atividade2\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.csproj.AssemblyReference.cache
+D:\dev\Full-Stack\SENAI-SP\Back-End\10b-SP3-Atividade2\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\Full-Stack\SENAI-SP\Back-End\10b-SP3-Atividade2\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.AssemblyInfoInputs.cache
+D:\dev\Full-Stack\SENAI-SP\Back-End\10b-SP3-Atividade2\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.AssemblyInfo.cs
+D:\dev\Full-Stack\SENAI-SP\Back-End\10b-SP3-Atividade2\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.csproj.CoreCompileInputs.cache
+D:\dev\Full-Stack\SENAI-SP\Back-End\10b-SP3-Atividade2\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.MvcApplicationPartsAssemblyInfo.cache
+D:\dev\Full-Stack\SENAI-SP\Back-End\10b-SP3-Atividade2\Projeto_Web-Lh_Pets_Alunos\obj\Debug\net8.0\Projeto_Web-Lh_Pets_Alunos.sourcelink.json
